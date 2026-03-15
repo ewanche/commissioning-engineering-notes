@@ -10,4 +10,7 @@
 * the Flow making
 
 ## the main parameters:
+Parameter | Symbol | Mining 
+----------|---------|-------
+use.      |.   Q.   |how many liquid(m3/h,l/s)
 
