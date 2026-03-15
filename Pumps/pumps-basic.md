@@ -12,5 +12,6 @@
 ## the main parameters:
 Parameter | Symbol | Mining 
 ----------|---------|-------
-use.      |.   Q.   |how many liquid(m3/h,l/s)
+consumption|   Q   |how many liquid(m3/h,l/s)
+head| H | how top the pump can deliver the liquid 
 
