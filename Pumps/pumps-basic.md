@@ -4,5 +4,10 @@
 > Hier is a smart roadmap especially useful 
 > for Commission/ piping /process engineer.
 
-## What makes pump
-* 
+## What does pump do
+* delivery the liquid 
+* overcoming the resistance of pipes
+* the Flow making
+
+## the main parameters:
+
