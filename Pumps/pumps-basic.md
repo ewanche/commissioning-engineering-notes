@@ -7,11 +7,21 @@
 ## What does pump do
 * delivery the liquid 
 * overcoming the resistance of pipes
-* the Flow making
+* to produce flow
 
 ## the main parameters:
 Parameter | Symbol | Mining 
 ----------|---------|-------
 consumption|   Q   |how many liquid(m3/h,l/s)
-head| H | how top the pump can deliver the liquid 
+head| H | how height the pump can deliver the liquid 
+power |P| how meny Energy need
+efficiency | η | pump efficiency 
 
+## Head pump (most important)
+Head shows how many energy the pump gives 
+to liquid.
+\*formula\*
+* p - pressure 
+* ρ - density
+* v - speed flow
+* z - height
