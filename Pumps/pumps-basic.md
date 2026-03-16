@@ -1,4 +1,4 @@
-# Basic the  pumps 
+# Basic the  pumps 💪
 > This is basic principles of pump delivery 
 > and pressure (head).
 > Hier is a smart roadmap especially useful 
@@ -25,3 +25,4 @@ to liquid.
 * ρ - density
 * v - speed flow
 * z - height
+
