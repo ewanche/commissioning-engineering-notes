@@ -2,7 +2,14 @@
 
 Practical knowledge for commissioning engineers.
 
-Topics:
+Engineering:
 - Pumps
 - Heat exchangers
 - field-lessons
+- compressed air
+- Elektro
+technical-repair:
+-E-bike
+-Auto
+-Laptop 
+-Smartphone
