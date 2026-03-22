@@ -10,7 +10,7 @@ Practical knowledge for commissioning engineers.
  - Elektro
 
 -technical-repair:
- -E-bike
- -Auto
- -Laptop 
+ - E-bike
+ - Auto
+ - Laptop 
  - Smartphone
