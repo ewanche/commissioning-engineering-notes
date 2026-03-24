@@ -9,11 +9,6 @@ Engineering:
  - Pumps
  - Heat exchangers
  - field-lessons
- - compressed air
- - Elektro
 
 technical-repair-home:
  - E-bike
- - Auto
- - Laptop 
- - Smartphone
