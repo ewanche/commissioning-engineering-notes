@@ -1,39 +1,49 @@
 
 E-bike flyer. 
-Во время езды при переключении передачи на 5ю передачу, 
-слышны треск в области электродвигателя и прочерки педалей одновременно. 
-Причины неисправности/способы устранения?
 
-тип мотора центральный. 9851. 
-цепь не менялась 
-на 25 звене расстояние 30.6мм
+During riding, when shifting into 5th gear,
+there is a cracking noise in the area of the electric motor and pedal slipping at the same time.
+What could be the cause of the malfunction / how can it be fixed?
 
-🔧 Состояние цепи
+Motor type: mid-drive (model 9851).
+The chain has not been replaced.
+Measured over 25 links: 30.6 mm.
 
-Нормальное расстояние для 12 звеньев (24 пина) новой цепи ≈ 304,8 мм.
-Если измерять 25 звеньев, то новая цепь ≈ 317,5 мм.
+⸻
 
-У вас 30,6 см = 306 мм — это уже заметный износ.
-(foto)
-При таком износе:
-	•	цепь плохо входит в зубья звезды
-	•	под нагрузкой перескакивает
-	•	появляется треск
-	•	особенно на одной передаче
+🔧 Chain condition
 
-Это классический симптом.
+The normal length for 12 links (24 pins) of a new chain is ≈ 304.8 mm.
+If measuring 25 links, a new chain is ≈ 317.5 mm.
 
-⚠️ Важный момент для e-bike с центральным мотором
+I have 30.6 cm = 306 mm — this already indicates noticeable wear.
+(photo)
 
-У центральных моторов (например системы типа Bosch или Panasonic)
-нагрузка на цепь в 2-3 раза выше, чем на обычном велосипеде.
+With this level of wear:
+	•	the chain does not properly engage with the sprocket teeth
+	•	it skips under load
+	•	cracking noises appear
+	•	especially noticeable in one specific gear
 
-Поэтому:
-	•	цепь обычно меняют каждые 2000–3500 км
-	•	на 9850 км почти всегда изношены и цепь, 
+This is a classic symptom.
 
-Обнаружил износ на передней звезде
-(foto)
- в виде загибов маленьких на боковинах зубьев от цепи. 
-Цепь в любом случае менять с звездой...
-PC870 цепь
+⸻
+
+⚠️ Important point for e-bikes with a mid-drive motor
+
+For mid-drive motors (for example systems like Bosch or Panasonic),
+the load on the chain is 2–3 times higher than on a regular bicycle.
+
+Therefore:
+	•	the chain is usually replaced every 2000–3500 km
+	•	at 9850 km, both the chain and components are almost always worn
+
+⸻
+
+I also detected wear on the front chainring
+(photo)
+in the form of small bends on the sides of the teeth caused by the chain.
+
+In any case, the chain should be replaced together with the chainring.
+
+Chain model: PC870
