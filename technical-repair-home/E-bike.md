@@ -38,6 +38,10 @@ Therefore:
 	•	the chain is usually replaced every 2000–3500 km
 	•	at 9850 km, both the chain and components are almost always worn
 
+	# REPAIR MANUAL NEXUS SG 8C20
+
+	https://www.scribd.com/document/369446105/NEXUS-SG-8C20-Werkstatthandbuch?language_settings_changed=English
+
 ⸻
 
 I also detected wear on the front chainring
