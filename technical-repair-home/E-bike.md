@@ -37,13 +37,16 @@ Therefore:
 	•	at 9850 km, both the chain and components are almost always worn
 
 I also detected wear on the front chainring
-![chainring](/assets/chainring.jpg)
+
+![chainring](/assets/chainring%20.jpg) 
+
 in the form of small bends on the sides of the teeth caused by the chain.
 
 In any case, the chain should be replaced together with the chainring.
 Don't forget to tighten the new chain
-
 Chain model: PC870
+
+![chainring](/assets/spareparts.jpg) 
 
 ## used materials:
 ### REPAIR MANUAL NEXUS SG 8C20
