@@ -17,7 +17,7 @@ The normal length for 12 links (25 pins) of a new chain is ≈ 304.8 mm.
 ![newchain](/assets/newchain.jpg)
 
 I have 30.6 cm = 306 mm — this already indicates noticeable wear.
-![newchain](/assets/oldchain.jpg)
+![oldchain](/assets/oldchain.jpg)
 
  /*With this level of wear:
 	•	the chain does not properly engage with the sprocket teeth
@@ -25,9 +25,7 @@ I have 30.6 cm = 306 mm — this already indicates noticeable wear.
 	•	cracking noises appear
 	•	especially noticeable in one specific gear
 
-This is a classic symptom./* says google 
-
-⸻
+This is a classic symptom./* 
 
 ⚠️ Important point for e-bikes with a mid-drive motor
 
@@ -39,7 +37,7 @@ Therefore:
 	•	at 9850 km, both the chain and components are almost always worn
 
 I also detected wear on the front chainring
-![chainring](/assets/chainring .jpg)
+![chainring](/assets/chainring.jpg)
 in the form of small bends on the sides of the teeth caused by the chain.
 
 In any case, the chain should be replaced together with the chainring.
