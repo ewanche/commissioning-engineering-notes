@@ -11,4 +11,6 @@ Engineering:
 technical-repair-home:
  - E-bike
 
-ewanche@yahoo.com
+OPEN TO WORK
+e-mail: ewanche@yahoo.com
+Telegramm: @evan_che
