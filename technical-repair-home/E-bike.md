@@ -46,11 +46,12 @@ I also detected wear on the front chainring
 in the form of small bends on the sides of the teeth caused by the chain.
 
 In any case, the chain should be replaced together with the chainring.
+Don't forget to tighten the new chain
 
 Chain model: PC870
 
-used materials:
-# REPAIR MANUAL NEXUS SG 8C20
+## used materials:
+### REPAIR MANUAL NEXUS SG 8C20
 https://www.scribd.com/document/369446105/NEXUS-SG-8C20-Werkstatthandbuch?language_settings_changed=English
-# Nabenschaltung Ritzel wechseln – Shimano
+### Nabenschaltung Ritzel wechseln – Shimano
 https://www.youtube.com/watch?v=SEvjvLum38A
