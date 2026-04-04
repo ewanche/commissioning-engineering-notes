@@ -13,19 +13,19 @@ Measured over 25 links: 30.6 mm.
 
 🔧 Chain condition
 
-The normal length for 12 links (24 pins) of a new chain is ≈ 304.8 mm.
-If measuring 25 links, a new chain is ≈ 317.5 mm.
+The normal length for 12 links (25 pins) of a new chain is ≈ 304.8 mm.
+![newchain](/assets/newchain.jpg)
 
 I have 30.6 cm = 306 mm — this already indicates noticeable wear.
-(photo)
+![newchain](/assets/oldchain.jpg)
 
-With this level of wear:
+ /*With this level of wear:
 	•	the chain does not properly engage with the sprocket teeth
 	•	it skips under load
 	•	cracking noises appear
 	•	especially noticeable in one specific gear
 
-This is a classic symptom.
+This is a classic symptom./* says google 
 
 ⸻
 
@@ -38,11 +38,8 @@ Therefore:
 	•	the chain is usually replaced every 2000–3500 km
 	•	at 9850 km, both the chain and components are almost always worn
 
-	
-⸻
-
 I also detected wear on the front chainring
-(photo)
+![chainring](/assets/chainring .jpg)
 in the form of small bends on the sides of the teeth caused by the chain.
 
 In any case, the chain should be replaced together with the chainring.
