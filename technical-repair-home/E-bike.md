@@ -53,3 +53,4 @@ Chain model: PC870
 https://www.scribd.com/document/369446105/NEXUS-SG-8C20-Werkstatthandbuch?language_settings_changed=English
 ### Nabenschaltung Ritzel wechseln – Shimano
 https://www.youtube.com/watch?v=SEvjvLum38A
+## Breakers Magura HS33
