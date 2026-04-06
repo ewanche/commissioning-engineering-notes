@@ -1,9 +1,10 @@
-# Commissioning Engineering Notes
+# Commissioning and Engineering Notes
+# Practical Guide
 
 I am documenting my personal engineering projects and professional experience here
 
-Ship's Commissioning Engineering Notes
-Practical Guide 
+## Ship's Commissioning Engineering Notes
+ 
 
 ![Flaschenbruch](assets/copy_C083418B-22B2-44BC-A2DB-35D05201D340.gif)
 
