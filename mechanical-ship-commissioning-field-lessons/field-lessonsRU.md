@@ -7,7 +7,7 @@
 >## Решение:
 > переделали трубопроводы/развернули насос
 ![oildutypump](/assets/IMG_5302.jpg)
-![oildutypumpdraw](/assets/IMG_5303.jpg)
+![oildutypumpdraw]
 
 ------------
 >## Проблема:
