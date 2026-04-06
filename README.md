@@ -3,15 +3,13 @@
 
 I am documenting my personal engineering projects and professional experience here
 
-## Ship's Commissioning Engineering Notes
- 
+### Ship's Commissioning Engineering Notes
 
-![Flaschenbruch](assets/copy_C083418B-22B2-44BC-A2DB-35D05201D340.gif)
+- mechanical-ship's-commissioning-field-lessons
 
-Engineering:
- - mechanical-ship's-commissioning-field-lessons
+### Engineering:
 
-technical-repair-home:
+### technical-repair-troubleshooting-home:
  - E-bike
 
 OPEN TO WORK
