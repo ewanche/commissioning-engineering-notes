@@ -1,28 +1,61 @@
-# Practical engineering notes from field experience
-- commissioning
-- troubleshooting
-- system-level thinking
+# Practical Engineering Notes | Commissioning & Troubleshooting
 
-Focus: real-world systems, failures, and how to fix them.
+Practical engineering knowledge based on real field experience in commissioning, troubleshooting, and system-level analysis.
+
+This repository focuses on how real systems behave, how they fail, and how to bring them into operation.
+
+---
+
+## 🔧 Core Areas
+
+### 🚢 Ship Commissioning Engineering
+
+* Mechanical commissioning field lessons
+* Typical startup issues and failure modes
+* System behavior during real operation
+
+---
+
+### ⚙️ Engineering Practice
+
+* Mechanical, electrical, and system-level fundamentals
+* Pumping systems (calculation, P&ID, simulation)
+* Applied engineering thinking in real-world conditions
+
+---
+
+### 🏠 Applied Troubleshooting (Consumer Systems)
+
+* E-bike diagnostics and repair
+* бытовые системы как практика инженерного мышления
+* поиск неисправностей и восстановление работы
+
+---
+
+## 🧠 Approach
+
+* Focus on **real-world failures**, not theory
+* Emphasis on **troubleshooting mindset**
+* System-level understanding instead of isolated components
+
+---
+
+## ⚠️ Disclaimer
 
 All examples in this repository are generalized and based on aggregated engineering experience.
 
 They do not represent any specific project, company, or vessel.
-
 Any resemblance to real systems is coincidental.
 
-### Ship's Commissioning Engineering Notes
+---
 
-- mechanical-ship's-commissioning-field-lessons
+## 🤝 Open to Work / Collaborations
 
-### Engineering:
-- 
-### Applied troubleshooting (consumer systems):
- - E-bike
+Available for:
 
-Open to work / collaborations
+* Commissioning support
+* Troubleshooting & diagnostics
+* System analysis
 
-e-mail: ewanche@yahoo.com
-
-Telegramm: @ewan_che
-
+📩 Email: [ewanche@yahoo.com](mailto:ewanche@yahoo.com)
+💬 Telegram: @ewan_che
