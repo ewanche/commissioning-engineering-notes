@@ -15,8 +15,3 @@ Any resemblance to real systems is coincidental.
 ### technical-repair-troubleshooting-home:
  - E-bike
 
-OPEN TO WORK
-
-e-mail: ewanche@yahoo.com
-
-Telegramm: @ewan_che
