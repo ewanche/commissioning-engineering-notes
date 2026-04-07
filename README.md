@@ -20,3 +20,9 @@ Any resemblance to real systems is coincidental.
 ### Applied troubleshooting (consumer systems):
  - E-bike
 
+Open to work / collaborations
+
+e-mail: ewanche@yahoo.com
+
+Telegramm: @ewan_che
+
