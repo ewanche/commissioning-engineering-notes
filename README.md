@@ -58,4 +58,4 @@ Available for:
 * System analysis
 
 📩 Email: [ewanche@yahoo.com](mailto:ewanche@yahoo.com)
-💬 Telegram: @ewan_che
+💬 Telegramm: @ewan_che
