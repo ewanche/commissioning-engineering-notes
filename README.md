@@ -1,7 +1,10 @@
 # Commissioning and Engineering Notes
 # Practical Guide
+All examples in this repository are generalized and based on aggregated engineering experience.
 
-I am documenting my personal engineering projects and professional experience here
+They do not represent any specific project, company, or vessel.
+
+Any resemblance to real systems is coincidental.
 
 ### Ship's Commissioning Engineering Notes
 
