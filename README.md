@@ -1,5 +1,10 @@
-# Commissioning and Engineering Notes
-# Practical Guide
+# Practical engineering notes from field experience
+- commissioning
+- troubleshooting
+- system-level thinking
+
+Focus: real-world systems, failures, and how to fix them.
+
 All examples in this repository are generalized and based on aggregated engineering experience.
 
 They do not represent any specific project, company, or vessel.
@@ -11,7 +16,7 @@ Any resemblance to real systems is coincidental.
 - mechanical-ship's-commissioning-field-lessons
 
 ### Engineering:
-
-### technical-repair-troubleshooting-home:
+- 
+### Applied troubleshooting (consumer systems):
  - E-bike
 
