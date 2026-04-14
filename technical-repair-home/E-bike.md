@@ -14,10 +14,10 @@ Measured over 25 links: 30.6 mm.
 🔧 Chain condition
 
 The normal length for 12 links (25 pins) of a new chain is ≈ 304.8 mm.
-![newchain](/assets/newchain.jpg)
+![newchain](/assets/ebike/newchain.jpg)
 
 I have 30.6 cm = 306 mm — this already indicates noticeable wear.
-![oldchain](/assets/oldchain.jpg)
+![oldchain](/assets/ebike/oldchain.jpg)
 
  /*With this level of wear:
 	•	the chain does not properly engage with the sprocket teeth
@@ -38,7 +38,7 @@ Therefore:
 
 I also detected wear on the front chainring
 
-![chainring](/assets/chainring%20.jpg) 
+![chainring](/assets/ebike/chainring%20.jpg) 
 
 in the form of small bends on the sides of the teeth caused by the chain.
 
@@ -46,7 +46,7 @@ In any case, the chain should be replaced together with the chainring.
 Don't forget to tighten the new chain
 Chain model: PC870
 
-![chainring](/assets/spareparts.jpg) 
+![chainring](/assets/ebike/spareparts.jpg) 
 
 ## used materials:
 ### REPAIR MANUAL NEXUS SG 8C20
