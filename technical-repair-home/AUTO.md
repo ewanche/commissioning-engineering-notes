@@ -10,3 +10,5 @@ on a right forward tier was noted outside wear.
 For normal use the tires recomennded (small vehicle like daihatsu ) make exchange the front wheel to back and
 back to front side install beacouse of the same wear or due oil changing.
 
+
+заправка до полного бака для проверки расхода топлива
