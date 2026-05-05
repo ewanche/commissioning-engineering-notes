@@ -13,6 +13,6 @@ back to front side install beacouse of the same wear or due oil changing.
 
 /*заправка до полного бака для проверки расхода топлива*/
 full tank with the petrol during refuling 
-in order to check consumption (100km/litr)
+in order to check consumption (### 100km/litr)
 5.05.2026 101 km == 7 Liters.
 
