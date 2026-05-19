@@ -1,6 +1,7 @@
 # Daihatsu Sirion 2005 1.3 Automatik Transmission
 
-## 116000 Oil was changed january2026
+## 115650 Oil was changed 6.02.2026
+## 125000 next oil change
 
 ## Problem: april2026
 on a right forward tier was noted outside wear.
@@ -16,3 +17,6 @@ full tank with the petrol during refuling
 in order to check consumption ### 100km/litr
 5.05.2026 101 km == 7 Liters.
 
+### 19.05.2026
+Breakers forvard was changed 
+JAPKO   26,90 Euro + 4 Euro Keramic pasta
