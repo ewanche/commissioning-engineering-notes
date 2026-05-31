@@ -39,10 +39,14 @@ Breakers liquid DOT4 LIQUI MOLY 21157
 1L/12Euro
 
 ### Problem:
-
+29.05.2026 - 30.05.2026
 The Battary died. I couldn't start the engine because of the battary.
+### Diagnostik:
 
-|old   | new   |      |                 |
+|old   | new   |   whan? |what for?       |
 |------|-------|------|-----------------|
-| 12,6V| 12,6V | sleep|check the battary|
-
+| 12,6V| 12,6V | in sleep|check the battary|
+|9,1V  |10,3V  |due start engine|check the capacity battary|
+|14,2V (without load) |14,6 (+under load:light etc.)   |due working eng.|check the Generator(how does charge)|
+### Solution:
+New Battery price: 79 Euro (2 years garantie).
