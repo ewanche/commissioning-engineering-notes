@@ -37,3 +37,12 @@ MIN TH 17 mm
 24.05.2026 / 122111 km
 Breakers liquid DOT4 LIQUI MOLY 21157 
 1L/12Euro
+
+### Problem:
+
+The Battary died. I couldn't start the engine because of the battary.
+
+|old   | new   |      |                 |
+|------|-------|------|-----------------|
+| 12,6V| 12,6V | sleep|check the battary|
+
