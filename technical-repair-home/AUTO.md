@@ -1,5 +1,7 @@
+
 # Daihatsu Sirion 2005 1.3 Automatik Transmission
 
+# допиши марки масел мотор,акпп
 ## 115650 Oil was changed 6.02.2026
 ## 125000 next oil change
 
