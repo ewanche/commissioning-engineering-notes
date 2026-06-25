@@ -1,3 +1,7 @@
+
+06/2026 Motor oil 26,95 Euro + Filter 10 euro
+
+2x KAMOKA 7092123 Gasfeder Dämpfer Heckklappe 420N für SUBARU DAIHATSU (25 Euro 11/2025)
 Допиши ремонт airbag + фотографии ссылки на неисправности узлов по ссылкам
 # Daihatsu Sirion 2005 1.3 Automatik Transmission
 
