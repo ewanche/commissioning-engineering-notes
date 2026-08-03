@@ -61,3 +61,5 @@ The Battary died. I couldn't start the engine because of the battary.
 |14,2V (without load) |14,6 (+under load:light etc.)   |due working eng.|check the Generator(how does charge)|
 ### Solution:
 New Battery price: 79 Euro (2 years garantie).
+
+## Bremsel Lampe oben 1.08.2026 2 Euro. 
