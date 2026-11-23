@@ -1,3 +1,10 @@
+### Service 22.11.2029:
+# 133523 km oil+filter+airfilter
+# problem:
+Был шум с подозрением на дифференциал АКПП. Давид послушал стетоскопом область картера ДВС - шумит там.
+И была шум - потшибник компрессора. В первую очередь нужно заменить его.
+
+
 ### 128550 km 09.08.2026
 Замена двух роликов натяжителей + ремень
 
@@ -73,4 +80,5 @@ The Battary died. I couldn't start the engine because of the battary.
 |14,2V (without load) |14,6 (+under load:light etc.)   |due working eng.|check the Generator(how does charge)|
 ### Solution:
 New Battery price: 79 Euro (2 years garantie).
+
 
