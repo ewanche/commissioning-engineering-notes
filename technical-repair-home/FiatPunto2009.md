@@ -1,8 +1,7 @@
-Oktober, November 2026 
+First useing Oktober, November 2026 
 
-Probleme:
-LICHT?
-Man muss ein Fernbedienung kaufen und installieren 
-Öl 
-Inraum Filter
+# Service 23.11.2026
+salon filter 10 Euro 
+
+
 
