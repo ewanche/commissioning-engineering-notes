@@ -1,7 +1,13 @@
 First useing Oktober, November 2026 
 
-# Service 23.11.2026
-salon filter 10 Euro 
+
+# Problem: запах в салоне бензина или выхлопных газов
+# Reason
+нет фильтра салонного
+
+# результат 23.11.2026
+заменил фильтр salon filter 10 Euro 
+запах всёравно есть. Поиски продолжаются.
 
 
 
